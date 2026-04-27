@@ -1,0 +1,7 @@
+{
+  "name": "koloco-ig-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Instagram feed proxy for koloco-artbeat-nexus. Deploys to Vercel as a serverless function at /api/instagram."
+}
